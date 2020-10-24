@@ -1,0 +1,5 @@
+.idea
+target
+*.iml
+
+# thing we dont want to push to gitHub
